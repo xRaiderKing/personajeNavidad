@@ -1,5 +1,4 @@
 # Personaje Navideño
-# Personaje navideño
 
 ## Datos del Alumno:
 *Nombre:* Jesus Yael Padron Grimaldo y Wendy Thomas Riviello 
@@ -32,13 +31,13 @@
 |Android Studio|2022.3.1.20|Software gratuito|
 
 ## Prototipo en Dibujo
-![Dibujo-Prototipo]()
+![Dibujo-Prototipo](https://github.com/xRaiderKing/personajeNavidad/blob/main/Estructura%20cordero.jpg)
 
 ## Comunicación
 Mediante una conexión Wi-Fi a una red local creada por la ESP32 el celular podrá conectarse y mandar las acciones necesarias programadas en la aplicación móvil. Usando un protocolo HTTP con endpoints y APIREST para la realización de acciones.
 
 ## Arquitectura
-![Arquitectura]()
+![Arquitectura](https://github.com/xRaiderKing/personajeNavidad/blob/main/Funcionamiento%20Cordero.jpg)
 
 ## Base de datos
 ![Diagrama-relacional-IoT]()
