@@ -20,7 +20,7 @@
 |Sensor de proximidad|Detecta movimiento o proximidad|1|$ 50|
 |Altavoz|Emite el sonido|1|$ 50|
 |Protoboard|Conectar multiples cosas|1|$ 150|
-|LEDs|Iluminación del prototipo|9|$ 50|
+|LEDs|Iluminación del prototipo|2|$ 100|
 |Batería/Fuente de alimentació|Suministrar la energía requerida|1|$ 100|
 |Laptop|Programación y ejecución del script|1|$ 21000|
 
