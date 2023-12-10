@@ -18,20 +18,21 @@
 |Esferas de unicel|Esferas de unicel del 11|4|$ 90|
 |Palitos v1|Palitos de paleta tipo cuadrados|8|$ 30|
 |Palitos v2|Palitos de paleta tipo circular|4|$ 15|
-|Tela|Tela de algodon|1M|$ 40|
-|Relleno|Relleno de almohada|1K|$ 30|
+|Tela|Tela de algodon|1m|$ 40|
+|Relleno|Relleno de almohada|1kg|$ 51|
 |Sensor de proximidad|Detecta movimiento o proximidad|1|$ 50|
 |Buzzer|Emite el sonido|1|$ 50|
 |Protoboard|Conectar multiples cosas|1|$ 150|
 |LEDs|Iluminación del prototipo|5|$ 100|
-|Eliminador de 12V/Fuente de alimentació|Suministrar la energía requerida para los motores|1|$ 150|
+|Eliminador de 12V/Fuente de alimentación|Suministrar la energía requerida para los motores|1|$ 150|
 |Laptop|Programación y ejecución del script|1|$ 21000|
 
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
 |-|-|-|
 |Arduino IDE|2.2.1|Software Libre|
-|Node-Red|3.1|Software gratuito|
+|Node-Red|3.1|Software Libre|
+|MQTT||8.11||Software Libre|
 
 ## Prototipo en Dibujo
 ![Dibujo-Prototipo](https://github.com/xRaiderKing/personajeNavidad/blob/main/Estructura%20cordero.jpg)
