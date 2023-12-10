@@ -15,7 +15,11 @@
 |ESP32|Microcontrolador con 30 pines con comunicación WiFi y Bluetooth|1|$ 140|
 |Cables Dupont|Cables para conexión de prototipos|50|$ 60|
 |Motor a pasos|Motor que permite movimientos precisos y controlados.|2|$ 200|
-|Impresión en papel|Impresión del personaje en papel estilo Papercraft|2|$ 50|
+|Esferas de unicel|Esferas de unicel del 11|4|$ 90|
+|Palitos v1|Palitos de paleta tipo cuadrados|8|$ 30|
+|Palitos v2|Palitos de paleta tipo circular|4|$ 15|
+|Tela|Tela de algodon|1M|$ 40|
+|Relleno|Relleno de almohada|1K|$ 30|
 |Sensor de proximidad|Detecta movimiento o proximidad|1|$ 50|
 |Buzzer|Emite el sonido|1|$ 50|
 |Protoboard|Conectar multiples cosas|1|$ 150|
