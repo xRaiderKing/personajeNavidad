@@ -32,7 +32,7 @@
 |-|-|-|
 |Arduino IDE|2.2.1|Software Libre|
 |Node-Red|3.1|Software Libre|
-|MQTT||8.11||Software Libre|
+|MQTT|8.11|Software Libre|
 
 ## Prototipo en Dibujo
 ![Dibujo-Prototipo](https://github.com/xRaiderKing/personajeNavidad/blob/main/Estructura%20cordero.jpg)
