@@ -41,7 +41,8 @@
 ![Dibujo-Prototipo](https://github.com/xRaiderKing/personajeNavidad/blob/main/Estructura%20cordero.jpg)
 
 ## Wokwi
-![Wokwi]()
+![Wokwi](![image](https://github.com/xRaiderKing/personajeNavidad/assets/116865698/b20b0373-0a9e-4e40-bb71-313a03ec5a44)
+)
 
 ## Comunicación
 Mediante una conexión Wi-Fi a una red local creada por la ESP32 el celular podrá conectarse y mandar las acciones necesarias programadas en la aplicación móvil. Usando un protocolo HTTP con endpoints y APIREST para la realización de acciones.
