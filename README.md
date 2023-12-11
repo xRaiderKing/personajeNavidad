@@ -48,4 +48,4 @@ Mediante una conexión Wi-Fi a una red local creada por la ESP32 el celular podr
 ![Diagrama-relacional-IoT](https://github.com/xRaiderKing/personajeNavidad/blob/main/imagen_2023-10-01_182151931.png)
 
 ## Proyecto Final
-![Resultado](https://github.com/xRaiderKing/personajeNavidad/blob/main/Video%20funcionamiento.mp4)
+![Resultado](https://youtu.be/lvDAeuPz0ck)
