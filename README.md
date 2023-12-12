@@ -58,10 +58,10 @@ Mediante una conexión Wi-Fi a una red local creada por la ESP32 el celular podr
 
 
 ## Codigo del muñeco (Primera Placa)
-![Codigo1]()
-![Codigo2]()
-![Codigo3]()
-![Codigo4]()
+![Codigo1](https://github.com/xRaiderKing/personajeNavidad/blob/main/A1.jpg)
+![Codigo2](https://github.com/xRaiderKing/personajeNavidad/blob/main/A2.jpg)
+![Codigo3](https://github.com/xRaiderKing/personajeNavidad/blob/main/A3.jpg)
+![Codigo4](https://github.com/xRaiderKing/personajeNavidad/blob/main/A4.jpg)
 
 ## Codigo del muñeco (Segunda Placa)
 ![CodigoESP2]()
