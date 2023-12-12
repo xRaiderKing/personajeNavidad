@@ -1,7 +1,7 @@
 # Personaje Navideño
 
 ## Datos del Alumno:
-*Nombre:* Jesus Yael Padron Grimaldo y Jose Geovanny Rubio Rincon
+*Nombre:* Jesus Yael Padron Grimaldo y Jose Geovanni Rubio Rincon
 *Grupo:* GDS0543 y GDS0541  
 *Número de control:* 1222100457 y 1222100469
 
