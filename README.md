@@ -47,11 +47,11 @@
 Mediante una conexión Wi-Fi a una red local creada por la ESP32 el celular podrá conectarse y mandar las acciones necesarias programadas en la aplicación móvil. Usando un protocolo HTTP con endpoints y APIREST para la realización de acciones.
 
 ## Diagrama de flujo en Node-Red
-![Node-Red]()
-![Node-Red]()
-![Node-Red]()
-![Node-Red]()
-![Node-Red]()
+![Node-Red](https://github.com/xRaiderKing/personajeNavidad/blob/main/Diagrama%20general.jpg)
+![Node-Red](https://github.com/xRaiderKing/personajeNavidad/blob/main/topic1.jpg)
+![Node-Red](https://github.com/xRaiderKing/personajeNavidad/blob/main/topic2.jpg)
+![Node-Red](https://github.com/xRaiderKing/personajeNavidad/blob/main/topic3.jpg)
+![Node-Red](https://github.com/xRaiderKing/personajeNavidad/blob/main/topic4.jpg)
 
 ## Arquitectura
 ![Arquitectura](https://github.com/xRaiderKing/personajeNavidad/blob/main/Estructura%203.jpg)
