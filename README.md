@@ -38,7 +38,7 @@
 ![Materiales Muñeco](https://github.com/xRaiderKing/personajeNavidad/blob/main/Materiales.jpg)
 
 ## Prototipo en Dibujo
-![Dibujo-Prototipo](https://github.com/xRaiderKing/personajeNavidad/blob/main/Estructura%20cordero.jpg)
+![Dibujo-Prototipo](https://github.com/xRaiderKing/personajeNavidad/blob/main/cordero.jpeg)
 
 ## Wokwi
 ![Wokwi](https://github.com/xRaiderKing/personajeNavidad/blob/main/wokwi.png)
