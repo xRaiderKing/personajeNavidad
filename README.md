@@ -12,7 +12,7 @@
 
 |Nombre del componente|Descripción|Cantidad|Precio|
 |-|-|-|-|
-|ESP32|Microcontrolador con 30 pines con comunicación WiFi y Bluetooth|1|$ 140|
+|ESP32|Microcontrolador con 30 pines con comunicación WiFi y Bluetooth|2|$ 280|
 |Cables Dupont|Cables para conexión de prototipos|50|$ 60|
 |Motor a pasos|Motor que permite movimientos precisos y controlados.|2|$ 200|
 |Esferas de unicel|Esferas de unicel del 11|4|$ 90|
@@ -45,6 +45,13 @@
 
 ## Comunicación
 Mediante una conexión Wi-Fi a una red local creada por la ESP32 el celular podrá conectarse y mandar las acciones necesarias programadas en la aplicación móvil. Usando un protocolo HTTP con endpoints y APIREST para la realización de acciones.
+
+## Diagrama de flujo en Node-Red
+![Node-Red]()
+![Node-Red]()
+![Node-Red]()
+![Node-Red]()
+![Node-Red]()
 
 ## Arquitectura
 ![Arquitectura](https://github.com/xRaiderKing/personajeNavidad/blob/main/Estructura%203.jpg)
