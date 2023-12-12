@@ -64,10 +64,12 @@ Mediante una conexión Wi-Fi a una red local creada por la ESP32 el celular podr
 ![Codigo4](https://github.com/xRaiderKing/personajeNavidad/blob/main/A4.jpg)
 
 ## Codigo del muñeco (Segunda Placa)
-![CodigoESP2]()
-![CodigoESP23]()
-![CodigoESP24]()
-![CodigoESP25]()
+![CodigoESP2](https://github.com/xRaiderKing/personajeNavidad/blob/main/1.jpg)
+![CodigoESP23](https://github.com/xRaiderKing/personajeNavidad/blob/main/2.jpg)
+![CodigoESP24](https://github.com/xRaiderKing/personajeNavidad/blob/main/3.jpg)
+![CodigoESP25](https://github.com/xRaiderKing/personajeNavidad/blob/main/4.jpg)
+![CodigoESP256](https://github.com/xRaiderKing/personajeNavidad/blob/main/5.jpg)
+![CodigoESP257](https://github.com/xRaiderKing/personajeNavidad/blob/main/6.jpg)
 
 ## Proyecto Final
 https://github.com/xRaiderKing/personajeNavidad/assets/116865698/1d37e453-7078-4e03-a526-13f66fe7c37c
